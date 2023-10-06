@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    font-family: 'Poppins', sans-serif;
+    font-size:12px;
+    margin: auto;
+    line-height: 200%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h1{
+    margin: 0;
+}    
+
+p{
+    margin: 0;
+}
+
+/*End */
+.container{
+    display: flex;
+}
